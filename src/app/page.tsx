@@ -91,7 +91,7 @@ const MainApp: React.FC = () => {
                       ease: "easeInOut"
                     }}
                   >
-                    <div className="filter drop-shadow-lg">🐋</div>
+                    <div className="filter drop-shadow-lg">🌊</div>
                     
                     {/* Floating Bubbles Animation */}
                     <div className="absolute inset-0 pointer-events-none overflow-hidden">

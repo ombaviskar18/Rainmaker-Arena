@@ -9,7 +9,7 @@
 [![Security](https://img.shields.io/badge/Security-🔒_Fully_Secured-green?style=for-the-badge)](https://github.com/ombaviskar18/Rainmaker-Arena)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-![Rainmaker Arena Banner](public/rainlogo.png)
+![Rainmaker Arena Banner](public/image.png)
 
 **🎮 [PLAY NOW](https://rainmaker-arena.vercel.app) • 🤖 [JOIN TELEGRAM BOT](https://t.me/Rain_maker_Arena_bot) • 📚 [DOCUMENTATION](#-documentation)**
 
