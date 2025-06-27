@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Vitalik Buterin",
+    "address": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
+    "description": "Ethereum Co-founder",
+    "hints": [
+      "This wallet belongs to a cryptocurrency legend who co-founded the second-largest blockchain.",
+      "Known for wearing purple and speaking at countless conferences.",
+      "Created at age 19, this person revolutionized smart contracts."
+    ],
+    "funFacts": [
+      "Donated over $1B worth of SHIBA tokens to charity",
+      "Born in Russia, raised in Canada",
+      "Started Ethereum when he was just 19 years old"
+    ],
+    "avatar": "https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4_400x400.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Punk6529",
+    "address": "0x6CC5F688a315f3dC28A7781717a9A798a59fDA7b",
+    "description": "NFT Collector & Advocate",
+    "hints": [
+      "This wallet belongs to one of the most influential NFT collectors and advocates for decentralization.",
+      "Known for their massive CryptoPunks collection and fighting for digital rights.",
+      "This person treats NFTs as a tool for preserving culture and freedom."
+    ],
+    "funFacts": [
+      "Owns one of the largest CryptoPunks collections",
+      "Anonymous advocate for decentralization",
+      "Created the 'The Memes' collection"
+    ],
+    "avatar": "https://pbs.twimg.com/profile_images/1570583748588048385/Ol4W-IQN_400x400.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pranksy",
+    "address": "0xd387a6e4e84a6c86bd90c158c6028a58cc8ac459",
+    "description": "NFT Whale",
+    "hints": [
+      "This wallet belongs to one of the earliest and biggest NFT collectors.",
+      "Known for discovering gems before they become popular.",
+      "Has a collection worth millions and loves cartoon profile pictures."
+    ],
+    "funFacts": [
+      "One of the first major NFT collectors",
+      "Anonymous collector from the UK",
+      "Estimated collection value: $10M+"
+    ],
+    "avatar": "https://pbs.twimg.com/profile_images/1381327256905707521/oGe8IrKy_400x400.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Whale Shark",
+    "address": "0x1a92f7381b9f03921564a437210bb9396471050c",
+    "description": "DeFi & NFT Whale",
+    "hints": [
+      "This whale is known for massive DeFi positions and NFT collecting.",
+      "Named after the largest fish in the ocean.",
+      "Known for providing liquidity across multiple protocols."
+    ],
+    "funFacts": [
+      "One of the largest liquidity providers",
+      "Anonymous DeFi whale",
+      "Massive NFT collection across multiple chains"
+    ],
+    "avatar": "https://pbs.twimg.com/profile_images/1368635070882054145/x6eL0Y3r_400x400.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Beanie",
+    "address": "0x7A3991e73Ea5CAFe73c5e9b35e2fb5e7F3C2De8E",
+    "description": "NFT Influencer",
+    "hints": [
+      "This person became famous for their NFT Twitter presence and collecting.",
+      "Known for wearing beanies and making bold predictions.",
+      "Rose to fame during the 2021 NFT bull run."
+    ],
+    "funFacts": [
+      "Became famous during NFT summer 2021",
+      "Known for beanie hats",
+      "Active NFT trader and influencer"
+    ],
+    "avatar": "https://pbs.twimg.com/profile_images/1445908726226223107/PcUkiBAP_400x400.jpg"
+  }
+] 

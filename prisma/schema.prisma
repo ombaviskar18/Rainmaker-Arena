@@ -1,0 +1,252 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// User profiles unified across all platforms
+model User {
+  id                    String    @id @default(cuid())
+  createdAt            DateTime  @default(now())
+  updatedAt            DateTime  @updatedAt
+
+  // Platform identifiers
+  walletAddress        String?   @unique
+  discordId            String?   @unique
+  telegramId           String?   @unique
+  telegramUsername     String?
+  
+  // Profile information
+  username             String?   @unique
+  displayName          String?
+  avatar               String?
+  email                String?   @unique
+  
+  // Game statistics
+  totalPoints          Int       @default(0)
+  currentLevel         Int       @default(1)
+  totalXP              Int       @default(0)
+  gamesPlayed          Int       @default(0)
+  correctAnswers       Int       @default(0)
+  winStreak            Int       @default(0)
+  maxWinStreak         Int       @default(0)
+  
+  // Reward system
+  lifetimeEarnings     Float     @default(0)
+  availableBalance     Float     @default(0)
+  rewardsWithdrawn     Float     @default(0)
+  
+  // Preferences
+  isActive             Boolean   @default(true)
+  notificationsEnabled Boolean   @default(true)
+  preferredPlatform    Platform  @default(WEB)
+  
+  // Relationships
+  gameSessions         GameSession[]
+  predictions          PricePrediction[]
+  rewards              Reward[]
+  leaderboardEntries   LeaderboardEntry[]
+  
+  @@map("users")
+}
+
+// Price prediction game sessions
+model GameSession {
+  id                String        @id @default(cuid())
+  createdAt        DateTime      @default(now())
+  updatedAt        DateTime      @updatedAt
+  
+  userId           String
+  user             User          @relation(fields: [userId], references: [id])
+  
+  gameType         GameType
+  status           GameStatus
+  startTime        DateTime
+  endTime          DateTime?
+  
+  // Game details
+  cryptoPair       String        // e.g., "BTC-USD"
+  startPrice       Float
+  endPrice         Float?
+  predictionPrice  Float
+  betAmount        Float
+  
+  // Results
+  isCorrect        Boolean?
+  pointsEarned     Int           @default(0)
+  payoutAmount     Float         @default(0)
+  
+  predictions      PricePrediction[]
+  
+  @@map("game_sessions")
+}
+
+// Individual price predictions
+model PricePrediction {
+  id              String      @id @default(cuid())
+  createdAt      DateTime    @default(now())
+  
+  userId         String
+  user           User        @relation(fields: [userId], references: [id])
+  
+  gameSessionId  String?
+  gameSession    GameSession? @relation(fields: [gameSessionId], references: [id])
+  
+  cryptoPair     String      // e.g., "ETH-USD"
+  currentPrice   Float
+  predictedPrice Float
+  betAmount      Float
+  timeframe      Int         // prediction window in seconds
+  
+  // Results
+  actualPrice    Float?
+  isCorrect      Boolean?
+  payoutAmount   Float       @default(0)
+  
+  @@map("price_predictions")
+}
+
+// Reward distributions
+model Reward {
+  id              String      @id @default(cuid())
+  createdAt      DateTime    @default(now())
+  
+  userId         String
+  user           User        @relation(fields: [userId], references: [id])
+  
+  type           RewardType
+  amount         Float
+  description    String
+  
+  // Transaction details
+  txHash         String?
+  walletAddress  String?
+  status         RewardStatus @default(PENDING)
+  
+  // Distribution tracking
+  distributionId String?
+  weekNumber     Int?
+  platform       Platform
+  
+  @@map("rewards")
+}
+
+// Weekly leaderboard entries
+model LeaderboardEntry {
+  id            String    @id @default(cuid())
+  createdAt    DateTime  @default(now())
+  
+  userId       String
+  user         User      @relation(fields: [userId], references: [id])
+  
+  weekNumber   Int
+  year         Int
+  position     Int
+  points       Int
+  gamesWon     Int
+  accuracy     Float     // percentage
+  totalEarnings Float
+  
+  @@unique([userId, weekNumber, year])
+  @@map("leaderboard_entries")
+}
+
+// Price feed data for reference
+model PriceFeed {
+  id            String    @id @default(cuid())
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  
+  cryptoPair   String    @unique // e.g., "BTC-USD"
+  currentPrice Float
+  
+  // Chainlink integration
+  feedAddress  String
+  lastUpdate   DateTime
+  decimals     Int       @default(8)
+  
+  @@map("price_feeds")
+}
+
+// Game show rounds scheduling
+model GameRound {
+  id            String      @id @default(cuid())
+  createdAt    DateTime    @default(now())
+  
+  roundNumber  Int
+  scheduledTime DateTime
+  cryptoPair   String
+  duration     Int         // in seconds
+  
+  startPrice   Float?
+  endPrice     Float?
+  status       RoundStatus @default(SCHEDULED)
+  
+  totalBets    Float       @default(0)
+  totalPlayers Int         @default(0)
+  
+  @@map("game_rounds")
+}
+
+// Platform activity tracking
+model PlatformActivity {
+  id          String    @id @default(cuid())
+  createdAt  DateTime  @default(now())
+  
+  userId     String
+  platform   Platform
+  activity   String    // JSON string of activity data
+  
+  @@map("platform_activities")
+}
+
+// Enums
+enum Platform {
+  WEB
+  DISCORD
+  TELEGRAM
+  XMTP
+}
+
+enum GameType {
+  PRICE_PREDICTION
+  TRIVIA
+  RAPID_FIRE
+  TOURNAMENT
+}
+
+enum GameStatus {
+  PENDING
+  ACTIVE
+  COMPLETED
+  CANCELLED
+}
+
+enum RewardType {
+  GAME_WIN
+  DAILY_BONUS
+  WEEKLY_DISTRIBUTION
+  LEVEL_UP
+  STREAK_BONUS
+  TOURNAMENT_PRIZE
+}
+
+enum RewardStatus {
+  PENDING
+  PROCESSING
+  COMPLETED
+  FAILED
+}
+
+enum RoundStatus {
+  SCHEDULED
+  ACTIVE
+  COMPLETED
+  CANCELLED
+} 

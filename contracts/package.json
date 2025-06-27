@@ -1,0 +1,38 @@
+{
+  "name": "rainmaker-arena-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Rainmaker Arena - Multi-chain crypto price prediction gaming platform on Base blockchain",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js",
+    "deploy:base": "hardhat run scripts/deploy.js --network base",
+    "deploy:base-sepolia": "hardhat run scripts/deploy.js --network baseSepolia",
+    "verify": "hardhat verify --network base",
+    "node": "hardhat node",
+    "clean": "hardhat clean"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "hardhat",
+    "ethereum",
+    "base",
+    "defi",
+    "nft",
+    "gaming",
+    "prediction",
+    "crypto"
+  ],
+  "author": "Rainmaker Arena Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  }
+} 

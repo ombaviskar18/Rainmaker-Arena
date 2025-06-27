@@ -1,0 +1,66 @@
+2025-06-27T14:02:13: ❌ Price fetch error: 
+2025-06-27T14:02:13: RequestError: Error: read ECONNRESET
+2025-06-27T14:02:13:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-27T14:02:13:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-27T14:02:13:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-27T14:02:13:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-27T14:02:13:     at Request.emit (node:events:518:28)
+2025-06-27T14:02:13:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-27T14:02:13:     at ClientRequest.emit (node:events:518:28)
+2025-06-27T14:02:13:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-27T14:02:13:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-27T14:02:13:     at TLSSocket.emit (node:events:518:28)
+2025-06-27T14:02:13:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-27T14:02:13:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-27T14:02:13:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-27T14:02:13:   code: 'EFATAL'
+2025-06-27T14:02:13: }
+2025-06-27T14:02:13: ❌ Polling error: EFATAL: Error: read ECONNRESET
+2025-06-27T14:02:13: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-27T14:02:13: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:02:14: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:02:14: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:02:18: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:06: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-27T14:07:06: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-27T14:07:06: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-27T14:07:06: RequestError: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:06:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-27T14:07:06:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-27T14:07:06:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-27T14:07:06:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-27T14:07:06:     at Request.emit (node:events:518:28)
+2025-06-27T14:07:06:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-27T14:07:06:     at ClientRequest.emit (node:events:518:28)
+2025-06-27T14:07:06:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-27T14:07:06:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-27T14:07:06:     at TLSSocket.emit (node:events:518:28)
+2025-06-27T14:07:06:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-27T14:07:06:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-27T14:07:06:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-27T14:07:06:   code: 'EFATAL'
+2025-06-27T14:07:06: }
+2025-06-27T14:07:06: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:06: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:07: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:07: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:08: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:08: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:09: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:09: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:10: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:10: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:11: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:11: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:12: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:13: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:13: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:14: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:14: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:15: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:15: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:16: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T14:07:16: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-27T14:07:16: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-27T14:07:16: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-27T14:07:16: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org

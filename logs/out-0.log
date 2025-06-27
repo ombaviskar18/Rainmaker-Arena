@@ -1,0 +1,603 @@
+2025-06-27T13:03:42: 🚀 RAINMAKER ARENA - COMPLETE AUTO BOT STARTING...
+2025-06-27T13:03:42: 
+2025-06-27T13:03:42: ⚡ Starting auto-initialization...
+2025-06-27T13:03:42: 🔍 Auto-initializing bot...
+2025-06-27T13:03:43: ✅ Connected: Rain_maker_Arena (@Rain_maker_Arena_bot)
+2025-06-27T13:03:43: 📨 /menu command
+2025-06-27T13:03:43: 📨 /prices command
+2025-06-27T13:03:43: 📨 /prices command
+2025-06-27T13:03:43: 📨 /predict command
+2025-06-27T13:03:43: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:03:44: 🎯 NEW ROUND: BTC at $1,07,376
+2025-06-27T13:03:44: 📢 Startup message sent
+2025-06-27T13:03:44: 
+2025-06-27T13:03:44: 🎉 BOT FULLY AUTOMATED AND READY!
+2025-06-27T13:03:44: 📱 Users can play immediately without any manual setup!
+2025-06-27T13:03:45: 🎯 NEW ROUND: BTC at $1,07,376
+2025-06-27T13:03:46: 🎯 NEW ROUND: ETH at $2,446.87
+2025-06-27T13:03:48: 🎯 NEW ROUND: LINK at $13.11
+2025-06-27T13:03:50: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T13:03:50: 🎯 NEW ROUND: ETH at $2,446.87
+2025-06-27T13:03:52: 🎯 NEW ROUND: UNI at $6.9
+2025-06-27T13:03:55: 🎯 NEW ROUND: LINK at $13.11
+2025-06-27T13:04:00: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T13:04:05: 🎯 NEW ROUND: UNI at $6.9
+2025-06-27T13:04:09: 📨 /prices command
+2025-06-27T13:04:13: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:04:14: 📨 /menu command
+2025-06-27T13:04:16: 📨 Callback: predict
+2025-06-27T13:04:17: 📨 Callback: predict_UNI_up
+2025-06-27T13:04:17: 🆕 NEW PLAYER: Om (@ombaviskar18)
+2025-06-27T13:04:17: 🎰 NEW BET: Om - UNI UP
+2025-06-27T13:04:17: 📨 Callback: bets
+2025-06-27T13:04:18: 📨 Callback: leaderboard
+2025-06-27T13:04:20: 📨 /bets command
+2025-06-27T13:04:24: 📨 Callback: bets
+2025-06-27T13:04:25: 📨 Callback: predict
+2025-06-27T13:04:26: 📨 Callback: predict
+2025-06-27T13:04:29: 📨 /predict command
+2025-06-27T13:04:43: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:05:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:05:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:06:13: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:06:18: 📨 /prices command
+2025-06-27T13:06:38: 📨 /start from: Reva
+2025-06-27T13:06:38: 🆕 NEW PLAYER: Reva (@Ooy_reva)
+2025-06-27T13:06:43: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:06:46: 📨 /menu command
+2025-06-27T13:06:49: 📨 /prices command
+2025-06-27T13:06:52: 📨 /predict command
+2025-06-27T13:06:57: 📨 Callback: predict_LINK_down
+2025-06-27T13:06:58: 🎰 NEW BET: Reva - LINK DOWN
+2025-06-27T13:07:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:07:43: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:08:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:08:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:08:44: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T13:09:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:09:15: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: LINK down - 1 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T13:09:15: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T13:09:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:10:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:10:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:11:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:11:43: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:12:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:12:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:13:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:13:43: 🎯 NEW ROUND: BTC at $1,07,163
+2025-06-27T13:13:43: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:13:45: 🎯 NEW ROUND: ETH at $2,443.35
+2025-06-27T13:13:47: 🎯 NEW ROUND: LINK at $13.08
+2025-06-27T13:13:49: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T13:13:51: 🎯 NEW ROUND: UNI at $6.89
+2025-06-27T13:14:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:14:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:15:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:15:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:16:13: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:16:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:17:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:17:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:18:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:18:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:18:44: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T13:19:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:19:14: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T13:19:14: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T13:19:14: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T13:19:14: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T13:19:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:20:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:20:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:21:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:21:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:22:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:22:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:23:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:23:43: 🎯 NEW ROUND: BTC at $1,07,019
+2025-06-27T13:23:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:23:45: 🎯 NEW ROUND: ETH at $2,440.49
+2025-06-27T13:23:47: 🎯 NEW ROUND: LINK at $13.04
+2025-06-27T13:23:49: 🎯 NEW ROUND: MATIC at $0.173
+2025-06-27T13:23:51: 🎯 NEW ROUND: UNI at $6.87
+2025-06-27T13:24:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:24:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:25:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:25:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:26:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:26:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:27:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:27:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:28:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:28:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:28:44: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T13:29:17: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:29:17: 🏁 ROUND ENDED: ETH up - 0 winners
+2025-06-27T13:29:17: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T13:29:17: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T13:29:17: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T13:29:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:30:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:30:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:31:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:31:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:32:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:32:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:33:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:33:43: 🎯 NEW ROUND: BTC at $1,07,020
+2025-06-27T13:33:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:33:45: 🎯 NEW ROUND: ETH at $2,442.56
+2025-06-27T13:33:47: 🎯 NEW ROUND: LINK at $13.03
+2025-06-27T13:33:49: 🎯 NEW ROUND: MATIC at $0.173
+2025-06-27T13:33:51: 🎯 NEW ROUND: UNI at $6.87
+2025-06-27T13:34:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:34:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:35:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:35:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:36:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:36:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:37:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:37:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:38:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:38:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:38:44: 🏁 ROUND ENDED: BTC up - 0 winners
+2025-06-27T13:39:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:39:14: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T13:39:14: 🏁 ROUND ENDED: LINK up - 0 winners
+2025-06-27T13:39:14: 🏁 ROUND ENDED: MATIC up - 0 winners
+2025-06-27T13:39:14: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T13:39:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:40:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:40:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:41:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:41:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:42:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:42:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:43:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:43:43: 🎯 NEW ROUND: BTC at $1,06,945
+2025-06-27T13:43:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:43:45: 🎯 NEW ROUND: ETH at $2,440.09
+2025-06-27T13:43:47: 🎯 NEW ROUND: LINK at $13.03
+2025-06-27T13:43:49: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T13:43:51: 🎯 NEW ROUND: UNI at $6.87
+2025-06-27T13:44:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:44:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:45:16: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:45:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:46:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:46:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:47:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:47:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:48:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:48:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:48:44: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T13:49:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:49:14: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T13:49:14: 🏁 ROUND ENDED: LINK up - 0 winners
+2025-06-27T13:49:14: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T13:49:14: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T13:49:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:50:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:50:46: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:51:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:51:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:52:15: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:52:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:53:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:53:43: 🎯 NEW ROUND: BTC at $1,06,904
+2025-06-27T13:53:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:53:45: 🎯 NEW ROUND: ETH at $2,440.15
+2025-06-27T13:53:47: 🎯 NEW ROUND: LINK at $13.04
+2025-06-27T13:53:49: 🎯 NEW ROUND: MATIC at $0.173
+2025-06-27T13:53:51: 🎯 NEW ROUND: UNI at $6.87
+2025-06-27T13:54:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:54:45: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:55:14: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:55:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:56:16: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T13:56:44: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:02:18: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:05: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:06: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:06: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:06: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:06: 🔄 Retrying price fetch...
+2025-06-27T14:07:06: 🔄 Retrying price fetch...
+2025-06-27T14:07:11: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:11: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:12: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:12: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:13: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:13: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:14: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:14: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:15: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:15: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:16: 🔄 Retrying price fetch...
+2025-06-27T14:07:16: 🔄 Retrying price fetch...
+2025-06-27T14:07:16: 🔄 Retrying price fetch...
+2025-06-27T14:07:16: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:16: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:17: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:18: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:18: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:19: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:19: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:20: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:20: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:21: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:21: 🔄 Auto-recovering from polling error...
+2025-06-27T14:07:26: 🔄 Retrying price fetch...
+2025-06-27T14:07:26: 🔄 Retrying price fetch...
+2025-06-27T14:07:26: 🔄 Retrying price fetch...
+2025-06-27T14:07:27: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:07:27: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T14:07:27: 🏁 ROUND ENDED: ETH up - 0 winners
+2025-06-27T14:07:27: 🏁 ROUND ENDED: LINK up - 0 winners
+2025-06-27T14:07:27: 🏁 ROUND ENDED: MATIC up - 0 winners
+2025-06-27T14:07:27: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T14:07:27: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:07:27: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:07:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:08:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:08:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:09:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:09:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:10:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:10:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:11:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:11:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:12:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:12:09: 🎯 NEW ROUND: BTC at $1,06,802
+2025-06-27T14:12:11: 🎯 NEW ROUND: ETH at $2,445.77
+2025-06-27T14:12:13: 🎯 NEW ROUND: LINK at $13.09
+2025-06-27T14:12:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T14:12:17: 🎯 NEW ROUND: UNI at $6.92
+2025-06-27T14:12:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:13:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:13:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:14:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:14:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:15:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:15:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:16:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:16:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:17:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:17:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:17:37: 🏁 ROUND ENDED: BTC up - 0 winners
+2025-06-27T14:17:37: 🏁 ROUND ENDED: ETH up - 0 winners
+2025-06-27T14:17:37: 🏁 ROUND ENDED: LINK up - 0 winners
+2025-06-27T14:17:37: 🏁 ROUND ENDED: MATIC up - 0 winners
+2025-06-27T14:17:37: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T14:18:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:18:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:19:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:19:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:20:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:20:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:21:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:21:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:22:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:22:09: 🎯 NEW ROUND: BTC at $1,06,966
+2025-06-27T14:22:11: 🎯 NEW ROUND: ETH at $2,454.6
+2025-06-27T14:22:13: 🎯 NEW ROUND: LINK at $13.17
+2025-06-27T14:22:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T14:22:17: 🎯 NEW ROUND: UNI at $6.94
+2025-06-27T14:22:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:23:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:23:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:24:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:24:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:25:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:25:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:26:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:26:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:27:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:27:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:27:36: 🏁 ROUND ENDED: BTC up - 0 winners
+2025-06-27T14:27:36: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T14:27:36: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T14:27:36: 🏁 ROUND ENDED: MATIC up - 0 winners
+2025-06-27T14:27:36: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T14:28:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:28:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:29:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:29:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:30:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:30:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:31:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:31:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:32:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:32:09: 🎯 NEW ROUND: BTC at $1,07,030
+2025-06-27T14:32:11: 🎯 NEW ROUND: ETH at $2,449.52
+2025-06-27T14:32:13: 🎯 NEW ROUND: LINK at $13.15
+2025-06-27T14:32:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T14:32:17: 🎯 NEW ROUND: UNI at $6.93
+2025-06-27T14:32:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:33:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:33:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:34:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:34:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:35:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:35:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:36:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:36:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:37:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:37:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:37:36: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T14:37:36: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T14:37:36: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T14:37:36: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T14:37:36: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T14:38:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:38:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:39:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:39:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:40:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:40:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:41:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:41:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:42:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:42:09: 🎯 NEW ROUND: BTC at $1,06,948
+2025-06-27T14:42:11: 🎯 NEW ROUND: ETH at $2,447.19
+2025-06-27T14:42:13: 🎯 NEW ROUND: LINK at $13.13
+2025-06-27T14:42:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T14:42:17: 🎯 NEW ROUND: UNI at $6.9
+2025-06-27T14:42:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:43:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:43:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:44:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:44:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:45:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:45:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:46:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:46:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:47:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:47:36: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:47:36: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T14:47:36: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T14:47:36: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T14:47:36: 🏁 ROUND ENDED: MATIC up - 0 winners
+2025-06-27T14:47:36: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T14:48:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:48:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:49:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:49:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:50:06: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:50:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:51:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:51:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:52:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:52:09: 🎯 NEW ROUND: BTC at $1,06,931
+2025-06-27T14:52:11: 🎯 NEW ROUND: ETH at $2,451.06
+2025-06-27T14:52:13: 🎯 NEW ROUND: LINK at $13.15
+2025-06-27T14:52:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T14:52:17: 🎯 NEW ROUND: UNI at $6.92
+2025-06-27T14:52:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:53:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:53:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:54:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:54:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:55:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:55:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:56:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:56:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:57:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:57:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:57:37: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T14:57:37: 🏁 ROUND ENDED: ETH up - 0 winners
+2025-06-27T14:57:37: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T14:57:37: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T14:57:37: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T14:58:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:58:10: 📨 /predict command
+2025-06-27T14:58:11: 🎯 NEW ROUND: BTC at $1,06,921
+2025-06-27T14:58:13: 🎯 NEW ROUND: ETH at $2,452.24
+2025-06-27T14:58:15: 📨 /menu command
+2025-06-27T14:58:15: 🎯 NEW ROUND: LINK at $13.15
+2025-06-27T14:58:17: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T14:58:19: 🎯 NEW ROUND: UNI at $6.93
+2025-06-27T14:58:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:59:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:59:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T14:59:47: 📨 Callback: prices
+2025-06-27T14:59:48: 📨 Callback: leaderboard
+2025-06-27T14:59:52: 📨 /stats command
+2025-06-27T15:00:03: 📨 /bets command
+2025-06-27T15:00:06: 📨 /predict command
+2025-06-27T15:00:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:00:09: 📨 Callback: predict_LINK_up
+2025-06-27T15:00:10: 🎰 NEW BET: Reva - LINK UP
+2025-06-27T15:00:31: 📨 Callback: predict_BTC_up
+2025-06-27T15:00:32: 🎰 NEW BET: Reva - BTC UP
+2025-06-27T15:00:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:01:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:01:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:02:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:02:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:03:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:03:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:03:37: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T15:03:37: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T15:03:37: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T15:03:37: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T15:03:37: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T15:04:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:04:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:05:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:05:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:06:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:06:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:07:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:07:09: 🎯 NEW ROUND: BTC at $1,06,987
+2025-06-27T15:07:11: 🎯 NEW ROUND: ETH at $2,453.42
+2025-06-27T15:07:13: 🎯 NEW ROUND: LINK at $13.15
+2025-06-27T15:07:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T15:07:17: 🎯 NEW ROUND: UNI at $6.95
+2025-06-27T15:07:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:08:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:08:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:09:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:09:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:10:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:10:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:11:07: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:11:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:12:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:12:37: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:12:37: 🏁 ROUND ENDED: BTC up - 0 winners
+2025-06-27T15:12:37: 🏁 ROUND ENDED: ETH up - 0 winners
+2025-06-27T15:12:37: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T15:12:37: 🏁 ROUND ENDED: MATIC up - 0 winners
+2025-06-27T15:12:37: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T15:13:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:13:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:14:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:14:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:15:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:15:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:16:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:16:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:17:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:17:09: 🎯 NEW ROUND: BTC at $1,07,065
+2025-06-27T15:17:11: 🎯 NEW ROUND: ETH at $2,455.39
+2025-06-27T15:17:13: 🎯 NEW ROUND: LINK at $13.14
+2025-06-27T15:17:15: 🎯 NEW ROUND: MATIC at $0.175
+2025-06-27T15:17:17: 🎯 NEW ROUND: UNI at $6.93
+2025-06-27T15:17:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:18:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:18:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:19:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:19:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:20:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:20:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:21:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:21:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:22:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:22:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:22:38: 🏁 ROUND ENDED: BTC up - 0 winners
+2025-06-27T15:22:38: 🏁 ROUND ENDED: ETH up - 0 winners
+2025-06-27T15:22:38: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T15:22:38: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T15:22:38: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T15:23:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:23:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:24:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:24:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:25:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:25:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:26:11: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:26:40: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:27:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:27:09: 🎯 NEW ROUND: BTC at $1,07,121
+2025-06-27T15:27:11: 🎯 NEW ROUND: ETH at $2,457.14
+2025-06-27T15:27:13: 🎯 NEW ROUND: LINK at $13.14
+2025-06-27T15:27:15: 🎯 NEW ROUND: MATIC at $0.175
+2025-06-27T15:27:17: 🎯 NEW ROUND: UNI at $6.95
+2025-06-27T15:27:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:28:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:28:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:29:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:29:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:30:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:30:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:31:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:31:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:32:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:32:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:32:38: 🏁 ROUND ENDED: BTC up - 0 winners
+2025-06-27T15:32:38: 🏁 ROUND ENDED: ETH up - 0 winners
+2025-06-27T15:32:38: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T15:32:38: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T15:32:38: 🏁 ROUND ENDED: UNI up - 0 winners
+2025-06-27T15:33:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:33:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:34:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:34:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:35:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:35:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:36:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:36:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:37:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:37:09: 🎯 NEW ROUND: BTC at $1,07,161
+2025-06-27T15:37:11: 🎯 NEW ROUND: ETH at $2,459.93
+2025-06-27T15:37:13: 🎯 NEW ROUND: LINK at $13.14
+2025-06-27T15:37:15: 🎯 NEW ROUND: MATIC at $0.175
+2025-06-27T15:37:17: 🎯 NEW ROUND: UNI at $6.96
+2025-06-27T15:37:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:38:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:38:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:39:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:39:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:40:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:40:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:41:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:41:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:42:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:42:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:42:39: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T15:42:39: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T15:42:39: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T15:42:39: 🏁 ROUND ENDED: MATIC down - 0 winners
+2025-06-27T15:42:39: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T15:43:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:43:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:44:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:44:38: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:45:08: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:45:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:46:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:46:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:47:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:47:09: 🎯 NEW ROUND: BTC at $1,07,106
+2025-06-27T15:47:11: 🎯 NEW ROUND: ETH at $2,455.53
+2025-06-27T15:47:13: 🎯 NEW ROUND: LINK at $13.09
+2025-06-27T15:47:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T15:47:17: 🎯 NEW ROUND: UNI at $6.92
+2025-06-27T15:47:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:48:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:48:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:49:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:49:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:50:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:50:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:51:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:51:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:52:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:52:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:52:39: 🏁 ROUND ENDED: BTC down - 0 winners
+2025-06-27T15:52:39: 🏁 ROUND ENDED: ETH down - 0 winners
+2025-06-27T15:52:39: 🏁 ROUND ENDED: LINK down - 0 winners
+2025-06-27T15:52:39: 🏁 ROUND ENDED: MATIC up - 0 winners
+2025-06-27T15:52:39: 🏁 ROUND ENDED: UNI down - 0 winners
+2025-06-27T15:53:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:53:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:54:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:54:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:55:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:55:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:56:10: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:56:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:57:09: 🎯 NEW ROUND: BTC at $1,07,075
+2025-06-27T15:57:10: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:57:11: 🎯 NEW ROUND: ETH at $2,451.67
+2025-06-27T15:57:13: 🎯 NEW ROUND: LINK at $13.07
+2025-06-27T15:57:15: 🎯 NEW ROUND: MATIC at $0.174
+2025-06-27T15:57:17: 🎯 NEW ROUND: UNI at $6.91
+2025-06-27T15:57:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:58:10: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:58:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:59:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T15:59:40: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T16:00:10: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T16:00:39: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T16:01:09: 📊 LIVE prices updated: 5/5 cryptos
+2025-06-27T16:01:39: 📊 LIVE prices updated: 5/5 cryptos
