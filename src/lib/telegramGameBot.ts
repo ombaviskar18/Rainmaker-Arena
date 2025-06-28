@@ -5,15 +5,21 @@ import realTimePriceService, { PriceData, PredictionRound } from './realTimePric
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
 
-if (!TELEGRAM_BOT_TOKEN) {
-  throw new Error('❌ TELEGRAM_BOT_TOKEN is required in environment variables');
-}
+// Check if Telegram bot is configured
+const isTelegramConfigured = !!(TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID);
 
-if (!TELEGRAM_CHAT_ID) {
-  throw new Error('❌ TELEGRAM_CHAT_ID is required in environment variables');
-}
+let bot: TelegramBot | null = null;
 
-const bot = new TelegramBot(TELEGRAM_BOT_TOKEN, { polling: true });
+if (isTelegramConfigured) {
+  try {
+    bot = new TelegramBot(TELEGRAM_BOT_TOKEN!, { polling: true });
+    console.log('✅ Telegram bot initialized successfully');
+  } catch (error) {
+    console.warn('⚠️ Failed to initialize Telegram bot:', error);
+  }
+} else {
+  console.warn('⚠️ Telegram bot not configured - missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID');
+}
 
 interface TelegramUser {
   id: number;
@@ -45,16 +51,21 @@ class TelegramGameBot {
   private users: Map<number, TelegramUser> = new Map();
   private activeBets: Map<string, BetInfo[]> = new Map();
   private isInitialized = false;
-  private broadcastChannelId = TELEGRAM_CHAT_ID;
+  private broadcastChannelId = TELEGRAM_CHAT_ID || '';
 
   constructor() {
-    this.initializeBot();
-    this.startBetMonitoring();
-    this.startRewardAlerts();
+    if (isTelegramConfigured && bot) {
+      this.initializeBot();
+      this.startBetMonitoring();
+      this.startRewardAlerts();
+    } else {
+      console.warn('⚠️ Telegram bot features disabled - running in mock mode');
+      this.isInitialized = true; // Mark as initialized but in mock mode
+    }
   }
 
   private async initializeBot() {
-    if (this.isInitialized) return;
+    if (this.isInitialized || !bot) return;
 
     try {
       // Set up comprehensive bot commands
@@ -179,6 +190,11 @@ class TelegramGameBot {
   }
 
   private async sendWelcomeToChannel() {
+    if (!bot || !this.broadcastChannelId) {
+      console.warn('Telegram bot or channel not configured - skipping welcome message');
+      return;
+    }
+
     const welcomeMessage = `
 🌧️⚡ **RAINMAKER ARENA BOT ACTIVATED** ⚡🌧️
 
@@ -1138,6 +1154,11 @@ ${result.winner === 'up' ? '📈' : '📉'} **Winner:** ${result.winner?.toUpper
   }
 
   public async sendMessageToUser(userId: number, message: string) {
+    if (!bot) {
+      console.warn('Telegram bot not configured - cannot send message');
+      return;
+    }
+    
     try {
       await bot.sendMessage(userId, message, { parse_mode: 'Markdown' });
     } catch (error) {
@@ -1146,11 +1167,21 @@ ${result.winner === 'up' ? '📈' : '📉'} **Winner:** ${result.winner?.toUpper
   }
 
   public getUserStats() {
+    if (!isTelegramConfigured || !bot) {
+      // Return default stats when Telegram bot is not configured
+      return {
+        totalUsers: 0,
+        activeUsers: 0,
+        totalBets: 0,
+        totalEthDistributed: 0
+      };
+    }
+
     return {
       totalUsers: this.users.size,
+      activeUsers: Array.from(this.users.values()).filter(u => u.predictions.size > 0).length,
       totalBets: Array.from(this.users.values()).reduce((sum, user) => sum + user.totalBets, 0),
-      totalWinnings: Array.from(this.users.values()).reduce((sum, user) => sum + user.totalWinnings, 0),
-      activeBets: Array.from(this.activeBets.values()).flat().length
+      totalEthDistributed: Array.from(this.users.values()).reduce((sum, user) => sum + user.totalWinnings, 0)
     };
   }
 

@@ -168,3 +168,276 @@
 2025-06-28T17:11:37: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
 2025-06-28T17:11:38: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
 2025-06-28T17:11:38: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:44:58: ❌ Polling error: EFATAL: Error: read ECONNRESET
+2025-06-28T17:44:59: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:44:59: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:00: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:00: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:01: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:01: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:02: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:02: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:03: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:03: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:04: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:04: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:05: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:05: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:06: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:06: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:07: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:07: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:08: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:08: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:09: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:09: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:10: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:10: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:45:10: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:11: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:11: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:12: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:12: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:13: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:13: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:14: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:15: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:15: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:16: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:16: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:17: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:17: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:18: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:18: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:19: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:19: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:20: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:20: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:45:20: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:21: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:21: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:22: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:22: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:23: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:23: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:24: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:24: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:25: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:25: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:26: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:26: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:27: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:27: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:28: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:28: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:29: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:29: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:30: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:30: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:45:31: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:31: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:32: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:32: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:33: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:33: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:34: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:34: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:35: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:35: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:36: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:36: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:37: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:37: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:38: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:38: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:39: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:39: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:40: RequestError: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:40:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:45:40:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:45:40:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:45:40:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:45:40:     at Request.emit (node:events:518:28)
+2025-06-28T17:45:40:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:45:40:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:45:40:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:45:40:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:45:40:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:45:40:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:45:40:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:45:40:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:45:40:   code: 'EFATAL'
+2025-06-28T17:45:40: }
+2025-06-28T17:45:40: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:40: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:45:40: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:45:40: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:41: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:41: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:42: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:42: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:43: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:43: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:44: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:44: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:45: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:45: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:46: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:46: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:47: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:48: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:48: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:49: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:49: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:50: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:50: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:50: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:45:50: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:45:51: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:51: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:52: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:52: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:53: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:53: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:54: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:54: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:55: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:55: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:56: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:56: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:57: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:57: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:58: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:58: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:59: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:45:59: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:00: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:00: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:00: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:00: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:01: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:01: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:02: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:02: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:03: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:04: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:04: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:05: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:05: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:06: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:06: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:07: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:07: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:08: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:08: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:09: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:09: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:10: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:10: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:10: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:10: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:10: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:11: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:11: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:12: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:12: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:13: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:13: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:14: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:14: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:15: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:15: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:16: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:16: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:17: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:17: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:18: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:18: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:19: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:19: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:20: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:20: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:20: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:20: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:20: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:21: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:22: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:22: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:23: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:23: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:24: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:24: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:25: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:25: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:26: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:26: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:27: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:27: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:28: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:28: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:29: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:29: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:30: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:30: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:30: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:30: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:30: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:31: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:31: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:32: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:32: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:33: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:34: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:34: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:35: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:35: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:36: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:36: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:37: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:37: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:38: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:38: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:39: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:39: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:40: RequestError: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:40:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:46:40:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:46:40:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:46:40:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:46:40:     at Request.emit (node:events:518:28)
+2025-06-28T17:46:40:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:46:40:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:46:40:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:46:40:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:46:40:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:46:40:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:46:40:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:46:40:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:46:40:   code: 'EFATAL'
+2025-06-28T17:46:40: }
+2025-06-28T17:46:40: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:40: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:40: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:40: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:40: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:46:40: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:41: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:41: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:42: RequestError: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:42:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:46:42:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:46:42:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:46:42:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:46:42:     at Request.emit (node:events:518:28)
+2025-06-28T17:46:42:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:46:42:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:46:42:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:46:42:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:46:42:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:46:42:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:46:42:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:46:42:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:46:42:   code: 'EFATAL'
+2025-06-28T17:46:42: }
+2025-06-28T17:46:42: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:46:42: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
