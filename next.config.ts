@@ -39,9 +39,16 @@ const nextConfig: NextConfig = {
         querystring: false,
       };
       
-      // Exclude Coinbase SDK from client bundle
+      // Exclude Coinbase SDK and other node-specific modules from client bundle
       config.externals = config.externals || [];
-      config.externals.push('@coinbase/coinbase-sdk');
+      config.externals.push(
+        '@coinbase/coinbase-sdk',
+        'node-telegram-bot-api',
+        'ws',
+        'pg',
+        'prisma',
+        '@prisma/client'
+      );
     }
 
     return config;

@@ -18,7 +18,8 @@
     "bot:permanent": "npx pm2 start ecosystem.config.js && npx pm2 save && npx pm2 startup",
     "db:generate": "prisma generate",
     "db:push": "prisma db push",
-    "db:studio": "prisma studio"
+    "db:studio": "prisma studio",
+    "verify-deployment": "node verify-deployment.js"
   },
   "dependencies": {
     "@chainlink/contracts": "^1.2.0",

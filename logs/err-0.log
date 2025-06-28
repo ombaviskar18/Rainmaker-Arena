@@ -64,3 +64,107 @@
 2025-06-27T14:07:16: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
 2025-06-27T14:07:16: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
 2025-06-27T14:07:16: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-27T17:30:42: ❌ Price fetch error: 
+2025-06-27T21:35:22: RequestError: Error: read ECONNRESET
+2025-06-27T21:35:22:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-27T21:35:22:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-27T21:35:22:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-27T21:35:22:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-27T21:35:22:     at Request.emit (node:events:518:28)
+2025-06-27T21:35:22:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-27T21:35:22:     at ClientRequest.emit (node:events:518:28)
+2025-06-27T21:35:22:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-27T21:35:22:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-27T21:35:22:     at TLSSocket.emit (node:events:518:28)
+2025-06-27T21:35:22:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-27T21:35:22:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-27T21:35:22:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-27T21:35:22:   code: 'EFATAL'
+2025-06-27T21:35:22: }
+2025-06-28T17:11:36: RequestError: Error: read ECONNRESET
+2025-06-28T17:11:36:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:11:36:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:11:36:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:11:36:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:11:36:     at Request.emit (node:events:518:28)
+2025-06-28T17:11:36:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:11:36:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:11:36:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:11:36:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:11:36:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:11:36:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:11:36:   code: 'EFATAL'
+2025-06-28T17:11:36: }
+2025-06-28T17:11:36: RequestError: Error: read ECONNRESET
+2025-06-28T17:11:36:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:11:36:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:11:36:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:11:36:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:11:36:     at Request.emit (node:events:518:28)
+2025-06-28T17:11:36:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:11:36:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:11:36:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:11:36:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:11:36:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:11:36:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:11:36:   code: 'EFATAL'
+2025-06-28T17:11:36: }
+2025-06-28T17:11:36: ❌ Polling error: EFATAL: Error: read ECONNRESET
+2025-06-28T17:11:36: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com
+2025-06-28T17:11:36: RequestError: Error: getaddrinfo ENOENT api.telegram.org
+2025-06-28T17:11:36:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:11:36:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:11:36:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:11:36:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:11:36:     at Request.emit (node:events:518:28)
+2025-06-28T17:11:36:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:11:36:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:11:36:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:11:36:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:11:36:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:11:36:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:11:36:   code: 'EFATAL'
+2025-06-28T17:11:36: }
+2025-06-28T17:11:36: RequestError: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:11:36:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:11:36:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:11:36:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:11:36:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:11:36:     at Request.emit (node:events:518:28)
+2025-06-28T17:11:36:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:11:36:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:11:36:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:11:36:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:11:36:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:11:36:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:11:36:   code: 'EFATAL'
+2025-06-28T17:11:36: }
+2025-06-28T17:11:36: RequestError: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:11:36:     at new RequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\errors.js:14:15)
+2025-06-28T17:11:36:     at plumbing.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:87:29)
+2025-06-28T17:11:36:     at Request.RP$callback [as _callback] (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\request-promise-core\lib\plumbing.js:46:31)
+2025-06-28T17:11:36:     at self.callback (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:183:22)
+2025-06-28T17:11:36:     at Request.emit (node:events:518:28)
+2025-06-28T17:11:36:     at Request.onRequestError (C:\Users\Om Baviskar\Desktop\Rainmaker Arena\Base_whale\node_modules\@cypress\request\request.js:869:8)
+2025-06-28T17:11:36:     at ClientRequest.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorEvent (node:_http_client:104:11)
+2025-06-28T17:11:36:     at TLSSocket.socketErrorListener (node:_http_client:518:5)
+2025-06-28T17:11:36:     at TLSSocket.emit (node:events:518:28)
+2025-06-28T17:11:36:     at emitErrorNT (node:internal/streams/destroy:170:8)
+2025-06-28T17:11:36:     at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+2025-06-28T17:11:36:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+2025-06-28T17:11:36:   code: 'EFATAL'
+2025-06-28T17:11:36: }
+2025-06-28T17:11:36: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:11:37: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:11:37: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:11:38: ❌ Polling error: EFATAL: Error: getaddrinfo ENOTFOUND api.telegram.org
+2025-06-28T17:11:38: ❌ Price fetch error: getaddrinfo ENOTFOUND api.coingecko.com

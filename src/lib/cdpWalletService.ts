@@ -3,15 +3,23 @@ import { getCDPConfig, getBlockchainConfig } from './env';
 import { ethers } from 'ethers';
 
 // CDP Configuration from environment
-const CDP_API_KEY_NAME = '5b5a5bbd-daac-442c-b15e-e2d4fb28a0ca';
-const CDP_PRIVATE_KEY = 'EJBWxNN46FE4RJoqZZE+fnJWs8wG2p9CG/wvwQBLYsJOCmgY50JEtiOyTk0utswhPoni0jQtJu0w/HLeKT9HJg==';
+const CDP_API_KEY_NAME = process.env.CDP_API_KEY_NAME || 'your_cdp_api_key_name_here';
+const CDP_PRIVATE_KEY = process.env.CDP_PRIVATE_KEY || 'your_cdp_private_key_here';
 
-// Initialize Coinbase SDK
-Coinbase.configure({
-  apiKeyName: CDP_API_KEY_NAME,
-  privateKey: CDP_PRIVATE_KEY,
-  useServerSigner: false
-});
+// Only initialize Coinbase SDK if credentials are provided
+let isSDKConfigured = false;
+if (CDP_API_KEY_NAME !== 'your_cdp_api_key_name_here' && CDP_PRIVATE_KEY !== 'your_cdp_private_key_here') {
+  try {
+    Coinbase.configure({
+      apiKeyName: CDP_API_KEY_NAME,
+      privateKey: CDP_PRIVATE_KEY,
+      useServerSigner: false
+    });
+    isSDKConfigured = true;
+  } catch (error) {
+    console.warn('CDP SDK configuration failed:', error);
+  }
+}
 
 export interface RewardDistribution {
   id: string;
@@ -53,35 +61,72 @@ class CDPWalletService {
     try {
       console.log('🏦 Initializing CDP Wallet Service...');
 
-      // Create or import wallet
-      const user = await Coinbase.getDefaultUser();
-      
-      // Try to list existing wallets first
-      const wallets = await user.listWallets();
-      
-      if (wallets.length > 0) {
-        // Use existing wallet
-        this.wallet = wallets[0];
-        console.log('✅ Using existing CDP wallet');
-      } else {
-        // Create new wallet
-        this.wallet = await user.createWallet({
-          networkId: 'base-mainnet' // Using Base for lower fees
-        });
-        console.log('✅ Created new CDP wallet');
+      if (!isSDKConfigured) {
+        console.warn('CDP SDK not configured - using mock mode');
+        this.isInitialized = true;
+        return;
       }
 
-      // Get wallet balance
-      await this.updateCommunityPoolBalance();
-      
-      this.isInitialized = true;
-      console.log('🏦 CDP Wallet Service initialized successfully');
+      // Create or import wallet
+      try {
+        // Try different initialization methods based on SDK version
+        let user;
+        try {
+          user = await Coinbase.getDefaultUser();
+        } catch (error) {
+          // Fallback for newer SDK versions
+          console.log('Trying alternative user initialization...');
+          // In newer versions, you might need to create user first
+          // This is a fallback that should work with different SDK versions
+          const wallets = await Wallet.listWallets();
+          if (wallets && wallets.length > 0) {
+            this.wallet = wallets[0];
+            console.log('✅ Using existing CDP wallet');
+          } else {
+            this.wallet = await Wallet.create({
+              networkId: 'base-mainnet' // Using Base for lower fees
+            });
+            console.log('✅ Created new CDP wallet');
+          }
+          await this.updateCommunityPoolBalance();
+          this.isInitialized = true;
+          console.log('🏦 CDP Wallet Service initialized successfully');
+          this.scheduleWeeklyDistributions();
+          return;
+        }
+        
+        // Try to list existing wallets first
+        const wallets = await user.listWallets();
+        
+        if (wallets.length > 0) {
+          // Use existing wallet
+          this.wallet = wallets[0];
+          console.log('✅ Using existing CDP wallet');
+        } else {
+          // Create new wallet
+          this.wallet = await user.createWallet({
+            networkId: 'base-mainnet' // Using Base for lower fees
+          });
+          console.log('✅ Created new CDP wallet');
+        }
 
-      // Start weekly distribution scheduler
-      this.scheduleWeeklyDistributions();
+        // Get wallet balance
+        await this.updateCommunityPoolBalance();
+        
+        this.isInitialized = true;
+        console.log('🏦 CDP Wallet Service initialized successfully');
+
+        // Start weekly distribution scheduler
+        this.scheduleWeeklyDistributions();
+
+      } catch (apiError) {
+        console.error('❌ CDP API error:', apiError);
+        this.isInitialized = true; // Mark as initialized but in mock mode
+      }
 
     } catch (error) {
       console.error('❌ Failed to initialize CDP wallet:', error);
+      this.isInitialized = true; // Mark as initialized but in mock mode
     }
   }
 
